@@ -458,7 +458,7 @@ body {
             text-align: center;
             position: relative;
             padding: 0 2rem;
-            background-image: url('image/background1.png');
+            background-image: url('../image/background1.png');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
